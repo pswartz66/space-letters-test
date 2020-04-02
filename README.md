@@ -5,10 +5,13 @@
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-const spacing = require('space-letters-test');
+npm install space-letters-test
 ```
 
-# Usage
+## Usage
+```sh
+const spacing = require('space-letters-test');
+```
 
 ```sh
 const myString = 'Oh what a wonderful place!';
