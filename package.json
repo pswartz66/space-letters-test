@@ -10,8 +10,11 @@
     "node",
     "npm",
     "space",
-    "letters"
+    "letters",
+    "format",
+    "string"
   ],
   "author": "Phil Swartz",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/pswartz66/space-letters-test"
 }
