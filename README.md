@@ -1,5 +1,9 @@
 # space-letters-test
 
+> Insert spaces into a string
+
+Follow this project's author, [Phil Swartz](https://github.com/pswartz66), for updates on this project and others.
+
 ## Install 
 
 Install with [npm](https://www.npmjs.com/):
